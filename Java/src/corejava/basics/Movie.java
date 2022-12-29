@@ -1,4 +1,4 @@
-package corejava.oops;
+package corejava.basics;
 
 // class definition
 public class Movie {
