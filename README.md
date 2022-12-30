@@ -1,1 +1,1 @@
-# siddharthchatterjee9-ISS_Pre-Joining_Training-Assignment
+# This repo contains Siddharth Chatterjee's solutions to ISS' Pre-Joining Training Assignment
