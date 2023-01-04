@@ -13,7 +13,7 @@ public class CustomObjectCollections {
         ArrayList<Student> customList = new ArrayList<Student>();
         System.out.println(customList);
 
-        String[] nameArray = {"akshay", "mihir", "jay", "raj", "lad"};
+        String[] nameArray = {"siddharth", "priyanshi", "pranjal", "khushi", "praharsha"};
 
         // Add all student object with data to our customList
         for (int i = 0; i < 5; i++)
