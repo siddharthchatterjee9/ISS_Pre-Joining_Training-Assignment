@@ -1,6 +1,7 @@
 package corejava.json.encode;
 
 import org.json.simple.JSONArray;
+
 public class EncodeJSONArray{
     public static void main(String args[]){
         JSONArray arr = new JSONArray();
