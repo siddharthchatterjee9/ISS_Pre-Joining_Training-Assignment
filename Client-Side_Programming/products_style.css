@@ -1,0 +1,22 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+.column {
+    float: left;
+    width: 32.5%;
+    padding: 5px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.background {
+    background-position: 50%;
+    background-color: rgba(255, 230, 0, 0.705);
+}
